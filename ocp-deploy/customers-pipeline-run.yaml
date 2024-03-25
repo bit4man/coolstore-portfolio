@@ -9,7 +9,7 @@ metadata:
 spec:
   params:
     - name: git-url
-      value: 'https://github.com/OpenShiftDemos/coolstore-portfolio.git'
+      value: 'https://github.com/bit4man/coolstore-portfolio.git'
     - name: git-branch
       value: ocp
     - name: app-subdir
